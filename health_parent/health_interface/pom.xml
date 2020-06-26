@@ -4,12 +4,21 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>health_parent</artifactId>
-        <groupId>org.example</groupId>
+        <groupId>com.hf.itheima</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>health_interface</artifactId>
 
+    <dependencies>
+
+        <dependency>
+            <groupId>com.hf.itheima</groupId>
+            <artifactId>health_pojo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
 
 </project>

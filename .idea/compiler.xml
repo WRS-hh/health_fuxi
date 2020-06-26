@@ -15,13 +15,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="health_common" target="1.5" />
-      <module name="health_dao" target="1.5" />
-      <module name="health_interface" target="1.5" />
-      <module name="health_parent" target="1.5" />
-      <module name="health_pojo" target="1.5" />
-      <module name="health_service" target="1.5" />
-      <module name="health_web" target="1.5" />
+      <module name="health_common" target="1.8" />
+      <module name="health_dao" target="1.8" />
+      <module name="health_interface" target="1.8" />
+      <module name="health_parent" target="1.8" />
+      <module name="health_pojo" target="1.8" />
+      <module name="health_service" target="1.8" />
+      <module name="health_web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
